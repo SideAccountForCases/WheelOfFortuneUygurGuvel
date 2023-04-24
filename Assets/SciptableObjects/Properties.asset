@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68d3b0183b20d14478ed74940f3f98c3, type: 3}
+  m_Name: Properties
+  m_EditorClassIdentifier: 
+  slotProperties:
+  - sprite: {fileID: 21300000, guid: 54b411770501bbd479d909cd5fefd92d, type: 3}
+    slotType: 0
+  - sprite: {fileID: 21300000, guid: b85cb3111d7a6724ca4a97f5a871d12f, type: 3}
+    slotType: 1
+  - sprite: {fileID: 21300000, guid: 9ebe6dbf6adf50944a677d0b536df250, type: 3}
+    slotType: 2
+  - sprite: {fileID: 21300000, guid: b666c62c4d54ed34b92cb04ccb8c652d, type: 3}
+    slotType: 3
+  - sprite: {fileID: 21300000, guid: 142653ff7e4bda2449573ba81056d4bb, type: 3}
+    slotType: 4
+  - sprite: {fileID: 21300000, guid: 76d456bec8f703e4e8fdc3bc29a202e9, type: 3}
+    slotType: 5
+  - sprite: {fileID: 21300000, guid: ce4a72a45b64f1943a631b7975063e8a, type: 3}
+    slotType: 6
+  - sprite: {fileID: 21300000, guid: 9b0ac505d88a31843b526ac638779bf1, type: 3}
+    slotType: 7
+  - sprite: {fileID: 21300000, guid: 527a85b54ae55814880ae566f6b92bc2, type: 3}
+    slotType: 8
+  - sprite: {fileID: 21300000, guid: 7f8bd344b771237468804ba9ad30b70b, type: 3}
+    slotType: 9
+  - sprite: {fileID: 21300000, guid: ed0ad7a4b0c56fe4db353ec77bce10d7, type: 3}
+    slotType: 10
+  wheelProperties:
+  - zoneFactor: 0
+    wheelMainSprite: {fileID: 21300000, guid: 8b400a85b10217f44a7f99335820dd71, type: 3}
+    indicatorSprite: {fileID: 21300000, guid: e75429912381dff49914012d492a2819, type: 3}
+    spinButtonSprite: {fileID: 21300000, guid: 67e9ce5a0892238499d6c2ce9a74c456, type: 3}
+  - zoneFactor: 1
+    wheelMainSprite: {fileID: 21300000, guid: a47585c23e9c94149a155c2619a20cc5, type: 3}
+    indicatorSprite: {fileID: 21300000, guid: c2a8043b291da2c42a040098a555b72f, type: 3}
+    spinButtonSprite: {fileID: 21300000, guid: a264c0f8dd250b04a890cc9cd0ea361a, type: 3}
+  - zoneFactor: 2
+    wheelMainSprite: {fileID: 21300000, guid: de99e5d1c24a9d34b9b43a684cf7232b, type: 3}
+    indicatorSprite: {fileID: 21300000, guid: d963fca0e03178f429df74580badf78f, type: 3}
+    spinButtonSprite: {fileID: 21300000, guid: 26119fb25dbfcc341ae7509969be6fe9, type: 3}
